@@ -23,3 +23,4 @@ The `firebot.desktop` file will automatically call the script ahead of running F
 * Deal with errors by executing most-recent version instead of bailing when it can't do the cURL and such properly.
 * Download and parse the json instead of doing extra cURLs.
 * Log file?
+* Proper paths for bins, or at least some kinda something to make sure it doesn't get distracted by other stuff.
